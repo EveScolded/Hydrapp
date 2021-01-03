@@ -1,4 +1,4 @@
-![cover](./assets/img/cover.jpg)
+![cover](./src/assets/img/cover.jpg)
 
 # What is it?
 
