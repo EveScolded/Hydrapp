@@ -1,6 +1,6 @@
 ![cover](./src/assets/img/cover.jpg)
 
-# What is it?
+# hydrapp - what is it?
 
 Progressive web app which you can use to count glasses of water drank during the day. It saves your hydration level to Local storage. 
 
