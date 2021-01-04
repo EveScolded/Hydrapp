@@ -1,6 +1,6 @@
-![cover](./assets/img/cover.jpg)
+![cover](./src/assets/img/cover.jpg)
 
-# What is it?
+# Hydrapp - what is it?
 
 Progressive web app which you can use to count glasses of water drank during the day. It saves your hydration level to Local storage. 
 
@@ -15,3 +15,7 @@ Toolkit for static websites development from WTF: Co ten frontend training cours
 `npm run build` - runs build process for production
 
 `npm run publish` - runs build process and publish the page using `gh-pages` branch
+
+## Live view
+
+https:/evescolded.github.io/hydrapp
