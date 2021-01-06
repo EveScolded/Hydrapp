@@ -18,4 +18,8 @@ Toolkit for static websites development from WTF: Co ten frontend training cours
 
 ## Live view
 
+<<<<<<< HEAD
 https://evescolded.github.io/hydrapp
+=======
+https:/evescolded.github.io/hydrapp
+>>>>>>> 38d569b0cb663e2df079e9efcfeb101dcd5852fe
